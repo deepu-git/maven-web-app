@@ -6,7 +6,7 @@
   
   <h2> Call Us : + 91 - 9908771259</h2>
   
-  <h3> Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3>  Location : Ameerpet, Hyderbad </h3>
   
  <p> All the best my dear friend....</p>
 
